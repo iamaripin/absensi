@@ -14,7 +14,7 @@
 				<div class="panel panel-default">
 					<div class="panel-body">
 						<center><h2>SELAMAT DATANG DI SISTEM ABSENSI</h2>
-						<h2>SD NEGERI 004 PULAU TERAP</h2></center>
+						<h2>SMPN 4 SIAK </h2></center>
 
 						</div>
 				</div>
